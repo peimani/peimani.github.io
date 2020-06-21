@@ -1,11 +1,11 @@
 # Site settings
 author: Arash Peimani
-title: 
+title: Healthcare & Data Science
 header-img: img/home-bg.png
 email: arashpeimani@gmail.com
 copyright_name: Arash Peimani
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Journey to Merge the Two
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  peimani
